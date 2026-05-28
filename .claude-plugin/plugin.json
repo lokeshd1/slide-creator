@@ -1,0 +1,10 @@
+{
+  "name": "markdown-slide-deck",
+  "version": "1.0.0",
+  "description": "Claude Code skill for creating polished themed PPTX decks from Markdown, text, or Word documents.",
+  "author": {
+    "name": "Lokesh Dhakar"
+  },
+  "license": "MIT",
+  "keywords": ["slides", "pptx", "markdown", "presentations", "infographics"]
+}
